@@ -52,7 +52,7 @@ export class AppModule {
 }
 ```
 
-## 3. Bootstrap the Angular module:
+## 3. Bootstrap the Angular module (main.ts):
 
 ```typescript
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
