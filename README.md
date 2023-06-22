@@ -2,6 +2,8 @@
 
 https://angular.io/guide/elements
 
+https://stackblitz.com/~/github.com/luiscoco/AngularComponents_Sample9-Elements
+
 In Angular, "elements" refer to custom HTML elements that are created and used within an Angular application. These elements are also known as Angular Elements or Angular Custom Elements. They allow you to encapsulate Angular components and use them in non-Angular applications or frameworks, such as plain HTML, React, or Vue.
 
 Angular Elements are created by compiling an Angular component into a standalone JavaScript bundle. This bundle can then be included in any HTML page, and the custom element can be used like any other HTML element.
